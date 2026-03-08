@@ -1,4 +1,4 @@
-# 3DMambaComplete: Structured State Space Model for High-Efficiency Point Cloud Completion - [2025 TOM]M
+# 3DMambaComplete: Structured State Space Model for High-Efficiency Point Cloud Completion - [2025 TOMM]
 
 This repository contains the official implementation of [3DMambaComplete](https://dl.acm.org/doi/full/10.1145/3774887), a novel point cloud completion method based on the selective State Space Model (SSM), specifically leveraging the Mamba architecture.
 
